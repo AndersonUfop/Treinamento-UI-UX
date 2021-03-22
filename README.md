@@ -52,10 +52,10 @@ Resolução de problemas:
 
 
 <h1> Passos para prototipagem </h1>
-1. Criar um novo projeto no <a href="http://figma.com">Figma</a>
-2. Criar um guia de estilo.
-3. Definir uma tela para prototipar.
-4. No final da prototipação, criar a animação da tela.
+1. Criar um novo projeto no <a href="http://figma.com">Figma</a><br/>
+2. Criar um guia de estilo.<br/>
+3. Definir uma tela para prototipar.<br/>
+4. No final da prototipação, criar a animação da tela.<br/>
 
 <h1> Sites de suporte </h1>
 
