@@ -10,6 +10,19 @@
   <li>Projetar a melhor experiência do usuário</li>
 </ul>
 
+<h2>Design Thinking</h2>
+<ul>
+  <li>Busca soluções inteligentes para problemas</li>
+  <li>Pode ser usado para resolver problemas</li>
+ </ul>
+ 
+<h3>Pilares do Design Thinking</h3>
+<ul>
+  <li>Empatia</li>
+  <li>Colaboração</li>
+  <li>Experimentação</li>
+</ul>
+ 
 <h2> Design centrado no usuário</h1>
 
 
@@ -19,11 +32,65 @@ Resolução de problemas:
   <li>Identifique o problema</li>
   <li>Escute o usuário</li>
   <li>Encontre melhorias</li>
+  <li>Pesquise</li>
+  <li>Escute</li>
+  <li>Interaja</li>
 </ul>
 
 <i>Você não é o usuário</i>
 <i>Envolva sempre o usuário</i>
 
+<h2> Arquitetura da Informação </h2>
+<p>Disciplina que:</p>
+<ul>
+  <li>Organiza</li>
+  <li>Estrutura</li>
+  <li>Rotula conteúdo</li>
+  <br/>
+  <li> Objetivo: Ajudar as pessoas a encontrar o que procuram. </li>
+  <li>O intuito da arquitetura da informação é deixar tudo claro e simples.</li>
+  <li>Assim, o usuário consegue aproveitar todo o conteúdo sem dificuldades de navegação.</li>
+</ul>
+
+<h2> As 10 Heurísticas de Nielsen</h2>
+<ol>
+  <li>Visibilidade do status do sistema</li>
+  <li>Compatibilidade entre o sistema e o mundo real</li>
+  <li>Controle e liberdade para o usuário</li>
+  <li>Consistência e padronização</li>
+  <li>Prevenção de erros</li>
+  <li>Reconhecimento ao invés de memorização</li>
+  <li>Eficiência e flexibilidade de uso </li>
+  <li>Estética e design minimalista </li>
+  <li>Ajudarem os usuários a reconhecerem, diagnosticarem e recuperarem erros</li>
+  <li>Ajuda e documentação</li>
+</ol>
+  
+<h2> Outros conceitos importantes de UX</h2>
+
+<h3> Ergonomia </h3>
+  <p>Estuda a relação entre o homem e o trabalho que executa, procurando desenvolver a melhor
+  integração possível entre as condições de trabalho, capacidades, limitações e a eficiência.</p>
+
+<h3>Defricção</h3>
+  <p>É o ato de eliminar qualquer impeditivo que cause frustração no usuário.</p>
+
+<h3> Acessibilidade </h3>
+  <p>Acessibilidade não é projetar para as exceções, é projetar melhor para todo mundo.</p>
+
+<h3> Conteúdo alternativo</h3>
+  <p>Fazer a audiodescrição, legenda e/ou transcrever o que está em imagens, vídeos e conteúdos diversos.</p>
+
+
+<h3> Personalização de visualização</h3>
+  <ul>
+    <li>Tamanho da fonte</li>
+    <li>Contraste de cor e texto</li>
+    <li>Alteração de cor</li>
+    <li>Possibilidade de dar zoom</li>
+  </ul>
+  
+ 
 <h3>Referência</h3>
 <a href="https://brasil.uxdesign.cc">UX COllective</a>
 <br/><br/>
