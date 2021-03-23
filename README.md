@@ -104,7 +104,7 @@ Resolução de problemas:
   <li>Desenhar interfaces</li>
   <li>Ilustrar a interface, dado a melhor experiência do usuário</li>
   <li>É muito mais do que desenhar telas</li>
-<ul>
+</ul>
 
 <h2>Protótipo</h2>
 <p>Rascunho para explorar ideias  e validar hipóteses sem investir em desenvolvimento.</p>
@@ -140,7 +140,7 @@ Resolução de problemas:
     <li>Botões<li>
   </ul>
 
-<h3> Passos para prototipação</h3>
+<h2> Passos para prototipação</h2>
 <ul>
   <li>Planejamento</li>
   <li>Rascunho</li>
@@ -152,7 +152,7 @@ Resolução de problemas:
 </ul>
 
 
-<h3> Primeiros passos: </h3>
+<h2> Primeiros passos: </h2>
 1. Criar um novo projeto no <a href="http://figma.com">Figma</a><br/>
 2. Criar um guia de estilo.<br/>
 3. Definir uma tela para prototipar.<br/>
