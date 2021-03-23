@@ -94,6 +94,7 @@ Resolução de problemas:
 <h3>Referências</h3>
 <a href="https://brasil.uxdesign.cc">UX COllective</a><br/>
 <a href="https://www.youtube.com/channel/UCw-CQYphBIs_nplLNJuz44w/featured">XLAB Design</a><br/>
+<a href="https://www.youtube.com/channel/UCiq0W1B5CuFaWLXfL8M6lSQ">UX Unicórnio</a>
 <a href="https://sites.google.com/site/16fep19i/6Xj7YhT6T911">Design Thinking</a><br/>
 <a href="https://kupdf.net/queue/livro-nao-me-faca-pensar-steve-krug_58f0bde7dc0d60bb14da97e1_pdf?queue_id=-1&x=1616458061&z=MTg3Ljg2Ljc2LjY4">Não me faça pensar</a><br/>
 <br/><br/>
@@ -182,3 +183,9 @@ Resolução de problemas:
 [Você sabe usar tipografia em UI Design?](https://medium.com/ui-lab-school/voc%C3%AA-sabe-usar-tipografia-em-ui-design-9ce4ccdbab43)
 
 [Material Design](https://material.io/)
+
+[Gabriel Silvestri](https://www.youtube.com/channel/UCq76xfkglZDz2JBBjjd8SlQ)
+
+[Chief of Design](https://www.youtube.com/channel/UCuhnfwz33VjDh9hUS-Nzb4w)
+
+[DesignSense](https://www.youtube.com/channel/UCK3KESgQlmEBJ5DnRxWJ9oA)
