@@ -91,8 +91,11 @@ Resolução de problemas:
   </ul>
   
  
-<h3>Referência</h3>
-<a href="https://brasil.uxdesign.cc">UX COllective</a>
+<h3>Referências</h3>
+<a href="https://brasil.uxdesign.cc">UX COllective</a><br/>
+<a href="https://www.youtube.com/channel/UCw-CQYphBIs_nplLNJuz44w/featured">XLAB Design</a><br/>
+<a href="https://sites.google.com/site/16fep19i/6Xj7YhT6T911">Design Thinking</a><br/>
+<a href="https://kupdf.net/queue/livro-nao-me-faca-pensar-steve-krug_58f0bde7dc0d60bb14da97e1_pdf?queue_id=-1&x=1616458061&z=MTg3Ljg2Ljc2LjY4">Não me faça pensar</a><br/>
 <br/><br/>
 
 <h1>User Interface (UI) </h1>
@@ -103,8 +106,18 @@ Resolução de problemas:
   <li>É muito mais do que desenhar telas</li>
 <ul>
 
-<h3>Protótipo</h3>
+<h2>Protótipo</h2>
 <p>Rascunho para explorar ideias  e validar hipóteses sem investir em desenvolvimento.</p>
+
+<h2>Wireframe</h2>
+<ul>
+  <li>Rascunho da página, versão básica, que só tem formas.</li>
+  <li>Wireframe são descartáveis.</li>
+  <li>Utilize conteúdo real (NO ~~LOREM IPSUM~~)</li>
+  <li>Gere muitas variações e mantenha as melhores</li>
+  
+<h2>Protótipo de baixa fidelidade</h2>
+<h2>Protótipo de alta fidelidade</h2>
 
 <h4> Passos para prototipação</h4>
 <ul>
