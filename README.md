@@ -137,7 +137,7 @@ Resolução de problemas:
     <li>Imagens</li>
     <li>Iconografia</li>
     <li>Formulários</li>
-    <li>Botões<li>
+    <li>Botões</li>
   </ul>
 
 <h2> Passos para prototipação</h2>
