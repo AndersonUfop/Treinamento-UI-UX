@@ -115,11 +115,32 @@ Resolução de problemas:
   <li>Wireframe são descartáveis.</li>
   <li>Utilize conteúdo real (NO ~~LOREM IPSUM~~)</li>
   <li>Gere muitas variações e mantenha as melhores</li>
+ </ul>
   
-<h2>Protótipo de baixa fidelidade</h2>
-<h2>Protótipo de alta fidelidade</h2>
+  <h2>Protótipo de alta fidelidade</h2>
+  <ul>
+  <li>Versões finais do fluxo, já com os problemas de usabilidade iniciais resolvidos.</ul>
+  <li>Iterações mais complexas, como formulários, hovers e animações.</ul>
+  <li>Deixe o mais próximo do real possível.</ul>
+  </ul>
+  
+  <h2> Princípios de design de interface</h2>
+  <ul>
+    <li>Eixo</li>
+    <li>Simetria</li>
+    <li>Hierarquia</li>
+    <li>Design visual</li>
+    <li>Ritmo</li>
+    <li>Grids</li>
+    <li>Tipografia</li>
+    <li>Cores</li>
+    <li>Imagens</li>
+    <li>Iconografia</li>
+    <li>Formulários</li>
+    <li>Botões<li>
+  </ul>
 
-<h4> Passos para prototipação</h4>
+<h3> Passos para prototipação</h3>
 <ul>
   <li>Planejamento</li>
   <li>Rascunho</li>
@@ -131,7 +152,7 @@ Resolução de problemas:
 </ul>
 
 
-<h1> Passos para prototipagem </h1>
+<h3> Primeiros passos: </h3>
 1. Criar um novo projeto no <a href="http://figma.com">Figma</a><br/>
 2. Criar um guia de estilo.<br/>
 3. Definir uma tela para prototipar.<br/>
