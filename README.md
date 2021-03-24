@@ -97,15 +97,15 @@
       Design mobile
       </a>
     </li>
-    <li>
-    <a href="#-primeiros-passos">
-      Primeiros passos
-    </a>
-    </li>
      <li>
       <a href="#-passos-para-a-prototipação">
         Passos para a prototipação
       </a>
+    </li>
+    <li>
+    <a href="#-primeiros-passos">
+      Primeiros passos
+    </a>
     </li>
     <li>
       <a href="#-sites-de-suporte">
@@ -301,7 +301,7 @@ Ele propôs criar um site pensando primeiro em mobile e depois ajustá-lo ao com
 
 
 
-<h2>🦶 Passos para prototipação</h2>
+<h2>🦶 Passos para a prototipação</h2>
 <ul>
   <li>Planejamento</li>
   <li>Rascunho</li>
