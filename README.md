@@ -98,17 +98,17 @@
       </a>
     </li>
     <li>
-    <a href="">
+    <a href="#-primeiros-passos">
       Primeiros passos
     </a>
     </li>
      <li>
-      <a href="">
+      <a href="#-passos-para-a-prototipação">
         Passos para a prototipação
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="#-sites-de-suporte">
       Sites de suporte
       </a>
   </ul>
@@ -301,7 +301,7 @@ Ele propôs criar um site pensando primeiro em mobile e depois ajustá-lo ao com
 
 
 
-<h2> 🦶 Passos para prototipação</h2>
+<h2>🦶 Passos para prototipação</h2>
 <ul>
   <li>Planejamento</li>
   <li>Rascunho</li>
@@ -313,13 +313,13 @@ Ele propôs criar um site pensando primeiro em mobile e depois ajustá-lo ao com
 </ul>
 
 
-<h2> Primeiros passos </h2>
+<h2>👣 Primeiros passos</h2>
 1. Criar um novo projeto no <a href="http://figma.com">Figma</a><br/>
 2. Criar um guia de estilo.<br/>
 3. Definir uma tela para prototipar.<br/>
 4. No final da prototipação, criar a animação da tela.<br/><br/>
 
-<h1>🌎 Sites de suporte </h1>
+<h1>🌎 Sites de suporte</h1>
 
 
 [Figma: the collaborative interface design tool.](https://www.figma.com/)
