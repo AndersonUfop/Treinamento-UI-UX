@@ -1,6 +1,122 @@
 # UX & UI
 
-<h1> User Experience (UX) </h1>
+<ul>
+<li> 
+<a href="">User Experience (UX)</a>
+  <ul>
+  <li><a href="">Design Thinking</a>
+    <ul>
+      <li>
+      <a href="">Pilares do Design Thinking</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+  <a href="">
+    Design centrado no usuário
+    </a>
+  </li>
+  <li>
+  <a href="">
+    Arquitetura da Informação
+    </a>
+    </li>
+  <li>
+  <a href="">
+    As 10 Heurísticas de Nielsen
+  </a>
+  </li>
+    <li>
+    <a href="">
+      Outros conceitos importantes de UX
+    </a>
+      <ul>
+        <li>
+          <a href="">
+            Ergonomia
+          </a>
+        </li>
+        <li>
+          <a href="">
+            Defricção
+          </a>
+        </li>
+        <li>
+          <a href="">
+            Acessibilidade
+          </a>
+        </li>
+        <li>
+          <a href="">
+            Conteúdo alternativo
+          </a>
+        </li>
+        <li>
+          <a href="">
+            Personalização e visualização
+          </a>
+        </li>
+        <li>
+      </ul>
+    </li>
+  <li>
+    <a href="">
+      Referências
+    </a>
+  </li>
+  </ul>
+</li>
+<li> 
+  <a href="">
+    User Interface (UI Design)
+  </a>
+  <ul>
+    <li>
+      <a href="">
+        Protótipo
+      </a>
+      <ul>
+        <li>
+          <a href="">
+            Wireframe
+          </a>
+        </li>
+        <li>
+          <a href="">
+            Protótipo de alta fidelidade
+          </a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="">
+      Design mobile
+      </a>
+    </li>
+    <li>
+      <a href="">
+        Princípios de design de interfaces
+      </a>
+    </li>
+    <li>
+    <a href="">
+      Primeiros passos
+    </a>
+    </li>
+     <li>
+      <a href="">
+        Passos para a prototipação
+      </a>
+    </li>
+    <li>
+      <a href="">
+      Sites de suporte
+      </a>
+  </ul>
+</li>
+</ul>
+
+<h1> 👤 User Experience (UX) </h1>
 <img src="https://image.freepik.com/free-vector/interaction-design-concept-illustration_114360-1863.jpg" alt="UX Design" height="400"/>
 <ul> 
   <li>Conhecer melhor o usuário</li>
@@ -10,7 +126,7 @@
   <li>Projetar a melhor experiência do usuário</li>
 </ul>
 
-<h2>Design Thinking</h2>
+<h2>💡 Design Thinking</h2>
 <ul>
   <li>Busca soluções inteligentes para problemas</li>
   <li>Pode ser usado para resolver problemas</li>
@@ -23,7 +139,7 @@
   <li>Experimentação</li>
 </ul>
  
-<h2> Design centrado no usuário</h1>
+<h2> 🙋‍♂️ Design centrado no usuário</h1>
 
 
 ### Design UX
@@ -37,10 +153,10 @@ Resolução de problemas:
   <li>Interaja</li>
 </ul>
 
-<i>Você não é o usuário</i>
+❗ <i>Você não é o usuário</i>
 <i>Envolva sempre o usuário</i>
 
-<h2> Arquitetura da Informação </h2>
+<h2> 🏗 Arquitetura da Informação </h2>
 <p>Disciplina que:</p>
 <ul>
   <li>Organiza</li>
@@ -54,16 +170,38 @@ Resolução de problemas:
 
 <h2> As 10 Heurísticas de Nielsen</h2>
 <ol>
-  <li>Visibilidade do status do sistema</li>
-  <li>Compatibilidade entre o sistema e o mundo real</li>
-  <li>Controle e liberdade para o usuário</li>
-  <li>Consistência e padronização</li>
-  <li>Prevenção de erros</li>
-  <li>Reconhecimento ao invés de memorização</li>
-  <li>Eficiência e flexibilidade de uso </li>
-  <li>Estética e design minimalista </li>
-  <li>Ajudarem os usuários a reconhecerem, diagnosticarem e recuperarem erros</li>
-  <li>Ajuda e documentação</li>
+  <li>
+    <a href="heuristicas/heuristica1.png">Visibilidade do status do sistema</a>
+  </li>
+  <li>
+    <a href="heuristicas/heuristica2.png">Compatibilidade entre o sistema e o mundo real</a>
+    </li>
+  <li>
+    <a href="heuristicas/heuristica3.png">Controle e liberdade para o usuário</a>
+  </li>
+  <li>
+    <a href="heuristicas/heuristica4.png">Consistência e padronização</a>
+  </li>
+  <li>
+    <a href="heuristicas/heuristica5.png">Prevenção de erros</a>
+  </li>
+  <li>
+    <a href="heuristicas/heuristica6.png">Reconhecimento ao invés de memorização</a>
+  </li>
+  <li>
+    <a href="heuristicas/heuristica7.png">Eficiência e flexibilidade de uso </a>
+  </li>
+  <li>
+    <a href="heuristicas/heuristica8.png">Estética e design minimalista </a>
+  </li>
+  <li>
+    <a href="heuristicas/heuristica9.png">
+      Ajudarem os usuários a reconhecerem, diagnosticarem e recuperarem erros
+    </a>
+  </li>
+  <li>
+    <a href="heuristicas/heuristica10.png">Ajuda e documentação</a>
+  </li>
 </ol>
   
 <h2> Outros conceitos importantes de UX</h2>
@@ -91,15 +229,16 @@ Resolução de problemas:
   </ul>
   
  
-<h3>Referências</h3>
+<h2>📚 Referências</h2>
 <a href="https://brasil.uxdesign.cc">UX COllective</a><br/>
 <a href="https://www.youtube.com/channel/UCw-CQYphBIs_nplLNJuz44w/featured">XLAB Design</a><br/>
 <a href="https://www.youtube.com/channel/UCiq0W1B5CuFaWLXfL8M6lSQ">UX Unicórnio</a><br/>
 <a href="https://sites.google.com/site/16fep19i/6Xj7YhT6T911">Design Thinking</a><br/>
 <a href="https://kupdf.net/queue/livro-nao-me-faca-pensar-steve-krug_58f0bde7dc0d60bb14da97e1_pdf?queue_id=-1&x=1616458061&z=MTg3Ljg2Ljc2LjY4">Não me faça pensar</a><br/>
+<a href="https://www.instagram.com/aela.io/">Aela.io</a><br/>
 <br/><br/>
 
-<h1>User Interface (UI) </h1>
+<h1>🎨 User Interface (UI) </h1>
 <img src="https://image.freepik.com/free-vector/prototyping-process-concept-illustration_114360-2084.jpg" alt="User Interface" height="400"/>
 <ul>
   <li>Desenhar interfaces</li>
@@ -107,7 +246,7 @@ Resolução de problemas:
   <li>É muito mais do que desenhar telas</li>
 </ul>
 
-<h2>Protótipo</h2>
+<h2>💻 Protótipo</h2>
 <p>Rascunho para explorar ideias  e validar hipóteses sem investir em desenvolvimento.</p>
 
 <h2>Wireframe</h2>
@@ -141,7 +280,31 @@ Resolução de problemas:
     <li>Botões</li>
   </ul>
 
-<h2> Passos para prototipação</h2>
+  <h2>📱 Design Mobile</h2>
+  <h3>Design responsivo</h3>
+  <p>Um design responsivo é um site onde a sua estrutura mantém suas  proporções, independente do dispositivo, que é acessado.</p>
+  <h3>Mobile First</h3>
+  <p>Este conceito foi criado por Luke Wroblewski em 2011 ao publicar o livro Mobile First.
+Ele propôs criar um site pensando primeiro em mobile e depois ajustá-lo ao computador.
+</p>
+<b>Vantagens do mobile first</b>
+<ul>
+<li>Um site feito para dispositivos móveis é ajustado com mais facilidade para o computador.</li>
+
+<li>Garante mais visibilidade em mecanismos de busca.</li>
+</ul>
+
+<b>Desafios do mobile fisrt</b>
+<ul>
+ <li>Tamanho da tela reduzido</li>
+ <li>Comportamento do usuário</li>
+ <li>Excesso de informação é um problema</li>
+</ul>
+
+
+
+
+<h2> 🦶 Passos para prototipação</h2>
 <ul>
   <li>Planejamento</li>
   <li>Rascunho</li>
@@ -153,13 +316,13 @@ Resolução de problemas:
 </ul>
 
 
-<h2> Primeiros passos: </h2>
+<h2> Primeiros passos </h2>
 1. Criar um novo projeto no <a href="http://figma.com">Figma</a><br/>
 2. Criar um guia de estilo.<br/>
 3. Definir uma tela para prototipar.<br/>
-4. No final da prototipação, criar a animação da tela.<br/>
+4. No final da prototipação, criar a animação da tela.<br/><br/>
 
-<h1> Sites de suporte </h1>
+<h1>🌎 Sites de suporte </h1>
 
 
 [Figma: the collaborative interface design tool.](https://www.figma.com/)
