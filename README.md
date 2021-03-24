@@ -12,7 +12,7 @@
     </ul>
   </li>
   <li>
-  <a href="#-%EF%B8%8F-design-centrado-no-usuário">
+  <a href="#design-centrado-no-usuário">
     Design centrado no usuário
     </a>
   </li>
@@ -27,7 +27,7 @@
   </a>
   </li>
     <li>
-    <a href="#-outros-conceitos-importantes-de-ux">
+    <a href="#outros-conceitos-importantes-de-ux">
       Outros conceitos importantes de UX
     </a>
       <ul>
@@ -52,8 +52,8 @@
           </a>
         </li>
         <li>
-          <a href="#-personalização-de-visualização">
-            Personalização e visualização
+          <a href="#personalização-de-visualização">
+            Personalização de visualização
           </a>
         </li>
       </ul>
@@ -138,11 +138,9 @@
   <li>Experimentação</li>
 </ul>
  
-<h2>🙋‍♂️ Design centrado no usuário</h1>
+<h2>🙋‍Design centrado no usuário</h1>
 
-
-### Design UX
-Resolução de problemas:
+### Design UResolução de problemas:
 <ul>
   <li>Identifique o problema</li>
   <li>Escute o usuário</li>
