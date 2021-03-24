@@ -2,100 +2,99 @@
 
 <ul>
 <li> 
-<a href="">User Experience (UX)</a>
+<a href="#-user-experience-ux">User Experience (UX)</a>
   <ul>
   <li><a href="#-design-thinking">Design Thinking</a>
     <ul>
       <li>
-      <a href="pilares-do-design-thinking">Pilares do Design Thinking</a>
+      <a href="#pilares-do-design-thinking">Pilares do Design Thinking</a>
       </li>
     </ul>
   </li>
   <li>
-  <a href="">
+  <a href="#-%EF%B8%8F-design-centrado-no-usuário">
     Design centrado no usuário
     </a>
   </li>
   <li>
-  <a href="">
+  <a href="#-arquitetura-da-informação-">
     Arquitetura da Informação
     </a>
     </li>
   <li>
-  <a href="">
+  <a href="#as-10-heurísticas-de-nielsen">
     As 10 Heurísticas de Nielsen
   </a>
   </li>
     <li>
-    <a href="">
+    <a href="#-outros-conceitos-importantes-de-ux">
       Outros conceitos importantes de UX
     </a>
       <ul>
         <li>
-          <a href="">
+          <a href="#ergonomia">
             Ergonomia
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#defricção">
             Defricção
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#acessibilidade">
             Acessibilidade
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#conteúdo-alternativo">
             Conteúdo alternativo
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#-personalização-de-visualização">
             Personalização e visualização
           </a>
         </li>
-        <li>
       </ul>
     </li>
   <li>
-    <a href="">
+    <a href="#-referências">
       Referências
     </a>
   </li>
   </ul>
 </li>
 <li> 
-  <a href="">
+  <a href="#-user-interface-ui">
     User Interface (UI Design)
   </a>
   <ul>
     <li>
-      <a href="">
+      <a href="#-protótipo">
         Protótipo
       </a>
       <ul>
         <li>
-          <a href="">
+          <a href="#wireframe">
             Wireframe
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#protótipo-de-alta-fidelidade">
             Protótipo de alta fidelidade
           </a>
         </li>
       </ul>
     </li>
     <li>
-      <a href="">
-      Design mobile
+      <a href="#-princípios-de-design-de-interface">
+        Princípios de design de interfaces
       </a>
     </li>
-    <li>
-      <a href="">
-        Princípios de design de interfaces
+     <li>
+      <a href="#-design-mobile">
+      Design mobile
       </a>
     </li>
     <li>
@@ -139,7 +138,7 @@
   <li>Experimentação</li>
 </ul>
  
-<h2> 🙋‍♂️ Design centrado no usuário</h1>
+<h2>🙋‍♂️ Design centrado no usuário</h1>
 
 
 ### Design UX
@@ -156,7 +155,7 @@ Resolução de problemas:
 ❗ <i>Você não é o usuário</i>
 <i>Envolva sempre o usuário</i>
 
-<h2> 🏗 Arquitetura da Informação </h2>
+<h2>🏗 Arquitetura da Informação </h2>
 <p>Disciplina que:</p>
 <ul>
   <li>Organiza</li>
@@ -168,7 +167,7 @@ Resolução de problemas:
   <li>Assim, o usuário consegue aproveitar todo o conteúdo sem dificuldades de navegação.</li>
 </ul>
 
-<h2> As 10 Heurísticas de Nielsen</h2>
+<h2>As 10 Heurísticas de Nielsen</h2>
 <ol>
   <li>
     <a href="heuristicas/heuristica1.png">Visibilidade do status do sistema</a>
@@ -204,23 +203,23 @@ Resolução de problemas:
   </li>
 </ol>
   
-<h2> Outros conceitos importantes de UX</h2>
+<h2>Outros conceitos importantes de UX</h2>
 
-<h3> Ergonomia </h3>
+<h3>Ergonomia</h3>
   <p>Estuda a relação entre o homem e o trabalho que executa, procurando desenvolver a melhor
   integração possível entre as condições de trabalho, capacidades, limitações e a eficiência.</p>
 
 <h3>Defricção</h3>
   <p>É o ato de eliminar qualquer impeditivo que cause frustração no usuário.</p>
 
-<h3> Acessibilidade </h3>
+<h3>Acessibilidade</h3>
   <p>Acessibilidade não é projetar para as exceções, é projetar melhor para todo mundo.</p>
 
-<h3> Conteúdo alternativo</h3>
+<h3>Conteúdo alternativo</h3>
   <p>Fazer a audiodescrição, legenda e/ou transcrever o que está em imagens, vídeos e conteúdos diversos.</p>
 
 
-<h3> Personalização de visualização</h3>
+<h3>Personalização de visualização</h3>
   <ul>
     <li>Tamanho da fonte</li>
     <li>Contraste de cor e texto</li>
@@ -238,7 +237,7 @@ Resolução de problemas:
 <a href="https://www.instagram.com/aela.io/">Aela.io</a><br/>
 <br/><br/>
 
-<h1>🎨 User Interface (UI) </h1>
+<h1>🎨 User Interface (UI)</h1>
 <img src="https://image.freepik.com/free-vector/prototyping-process-concept-illustration_114360-2084.jpg" alt="User Interface" height="400"/>
 <ul>
   <li>Desenhar interfaces</li>
